@@ -6,7 +6,7 @@ import time
 
 # Constants
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
-OPENROUTER_API_KEY = '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'  # Secure this in your environment or a config file
+OPENROUTER_API_KEY = 'API-KEY-HERE'  # Secure this in your environment or a config file
 CLEANED_TEXT_DIR = 'src/data/cleaned-sec-edgar-filings'
 OUTPUT_DIR = 'src/data/output-responses'
 REQUEST_INTERVAL = 60  # seconds to wait between requests to manage API rate limit
