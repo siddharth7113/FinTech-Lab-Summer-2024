@@ -1,0 +1,22 @@
+{
+    "id": "gen-CDcLf9HXVr4h67A5g32lIbcGCvGQ",
+    "model": "mistralai/mistral-7b-instruct:free",
+    "object": "chat.completion",
+    "created": 1714695661,
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": " Can you provide me with more context on what you are asking? Are you asking me to provide a detailed financial analysis of Apple's financial statements? If so, I can provide you with the financial ratios and analysis of Apple's financial statements for the past several years. However, please provide me with specific years you are interested in."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21330,
+        "completion_tokens": 70,
+        "total_tokens": 21400,
+        "total_cost": 0
+    }
+}

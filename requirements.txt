@@ -1,3 +1,7 @@
 pandas
 flask
 sec_edgar_downloader
+matplotlib
+plotly
+json
+bs4
