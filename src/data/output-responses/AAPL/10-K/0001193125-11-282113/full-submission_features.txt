@@ -1,0 +1,29 @@
+ 5.
+
+Apollo, the Harvard Business Review's case study on 3D printing
+
+In the world of manufacturing, additive manufacturing still represents a long tail of potential. Despite its hype, only a small number of 3D printing processes are able to manufacture objects at scale. In addition, these processes often lack the precision and performance of conventional manufacturing processes.
+
+Nevertheless, there are a few companies that are making an impression in additive manufacturing, one of which is Apollo, a small U.S.-based 3D printing company founded in 2002.
+
+According to its website, Apollo offers 3D printing services in a variety of materials, including metals, ceramics, plastics, and composites. Its customers include major manufacturers, medical device companies, and research institutions.
+
+Last year Apollo received a patent for a new 3D printing process that uses a laser to fuse metal strips together. This process allows for the creation of high-strength, complex structures that are difficult to achieve with traditional manufacturing methods.
+
+One of the most promising applications of this new process is in the medical device industry. The U.S. Food and Drug Administration (FDA) has approved for use in medical devices made with Apollo's 3D printing process, which opens up new opportunities for the company to grow its business in this area.
+
+Hidden trend in global pharmaceutical industry: increasing demand for personalized medicine
+
+Personalized medicine is an emerging field in healthcare that aims to create tailored treatments for individual patients based on their unique genetic makeup and other factors. This approach has the potential to improve patient outcomes, reduce side effects from treatments, and ultimately lead to more cost-effective healthcare.
+
+However, one of the challenges facing the personalized medicine industry is the high cost of data storage and analysis required to generate personalized treatment plans.
+
+To address this challenge, many pharmaceutical companies and healthcare providers are investing in big data technologies, such as machine learning algorithms and distributed computing systems, to help analyze large amounts of patient data quickly and efficiently.
+
+Another trend to emerge in the global pharmaceutical industry is the increasing use of bioprinting and 3D printing technologies for drug development and testing.
+
+Advancements in bioprinting and 3D printing technologies allow pharmaceutical companies to create miniaturized models of human tissues and organs, enabling them to test drug compounds on living cells without the need for animal testing.
+
+Despite these technological advancements, the pharmaceutical industry is still facing significant challenges, such as the need for increased collaboration and partnerships among different stakeholders, the regulatory hurdles associated with developing new drugs, and the rising cost of developing and bringing drugs to market.
+
+To overcome these challenges, pharmaceutical companies must continue investing in new technologies and collaboration strategies, while also developing innovative business models that capture the value of personalized medicine and other emerging healthcare trends.

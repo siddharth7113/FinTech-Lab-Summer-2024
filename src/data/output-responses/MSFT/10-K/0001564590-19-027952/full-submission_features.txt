@@ -1,0 +1,95 @@
+ 1. Item 102 - Common Stock
+
+Cash Dividends Paid:
+
+11
+
+In millions
+
+7
+
+9
+
+10
+
+8. Stock-Based Compensation Expense
+
+3
+
+9
+
+7
+
+9. Dividend Expense
+
+2144
+
+31483
+
+584
+
+4792
+
+5. Stock Options
+
+452030
+
+3403930
+
+2432950
+
+6. Restricted Stock Units
+
+140365
+
+84200
+
+95845
+
+7. Stock Appreciation Rights
+
+17177
+
+1110
+
+420
+
+Total Stock-Based Compensation Expense
+
+Yes
+
+Yes
+
+Yes
+
+8. Stock Conversion Exercise
+
+B
+
+C
+
+A
+
+Total Stock Conversion Exercise
+
+Yes
+
+Yes
+
+Yes
+
+9. Additionally Paid in Conversion of Preferred Stock
+
+D
+
+E
+
+F
+
+Total Additional Paid in Conversion of Preferred Stock
+
+No
+
+No
+
+Yes

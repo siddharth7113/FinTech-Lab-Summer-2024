@@ -4,3 +4,4 @@ sec_edgar_downloader
 matplotlib
 plotly
 bs4
+nltk

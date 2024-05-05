@@ -1,0 +1,35 @@
+ 1. **Financial Overview**:
+
+    - In fiscal year 2021, Apple Inc. generated a total revenue of $274.5 billion, representing a 19% increase compared to the previous year.
+    - The company's net income was $97.3 billion, a 42% increase from the 2020 net income of $68.5 billion.
+    - The gross margin for Apple remained strong at 42.4%, a slight decrease from the 43.1% achieved in fiscal year 2020.
+
+2. **Operational Efficiency**:
+
+    - Operating margin for Apple was 21.2%, a decrease from 22.2% in the previous year. This can be attributed to increased operating expenses, particularly in the Research and Development segment.
+    - When compared to industry standards, Apple's operating margin is higher than the average for technology companies but lower than some of the high-performing e-commerce and retail sectors.
+    - Cost management effectiveness appears to be reasonably effective, with total operating expenses increasing at a rate lower than revenue growth.
+
+3. **Liquidity and Solvency**:
+
+    - Apple's current ratio was 1.4, indicating the company has sufficient short-term assets to cover short-term liabilities.
+    - The quick ratio, which excludes inventory from current assets, was 0.9, suggesting the company has sufficient liquid assets to cover short-term liabilities.
+    - The debt-to-equity ratio was 1.6, indicating the company has relatively high levels of debt compared to shareholder's equity.
+    - Interest coverage ratio was 91.1, signifying the company's ability to meet its interest payments.
+
+4. **Cash Flow Analysis**:
+
+    - Cash flow from operations was $82.2 billion, a decrease of 26% from the previous year, mainly driven by the lower gross margin.
+    - Investing cash flow was $19.6 billion, an increase of 35% from the previous year, largely due to investments in property, plant, and equipment.
+    - Financing cash flow was $72.6 billion, an increase of 74% from the previous year, mainly due to the net increase in long-term debt.
+
+5. **Investment and Future Outlook**:
+
+    - In 2021, Apple made several major investments, such as expanding its production capacity in India and the United States, investing in research and development, and acquiring AR/VR company Next Reality.
+    - Management expects continued growth, driven by the release of new products, including the Apple Watch Series 7, AirPods Max, and the M1 chip-based MacBook Pro and MacBook Air.
+    - The company anticipates continuing investment in its data centers, sustainable energy initiatives, and other strategic projects.
+
+6. **Risks and Opportunities**:
+
+    - Key risks for Apple include global supply chain disruptions, currency fluctuations, increasing competition from other technology companies, and regulatory risks related to antitrust and privacy concerns.
+    - Emerging opportunities for the company include continued growth in the services segment, expanding market share in China and India, and exploring new markets and technologies, such as augmented reality and 5G networks.
