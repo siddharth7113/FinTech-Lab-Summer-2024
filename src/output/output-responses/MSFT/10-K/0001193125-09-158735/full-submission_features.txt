@@ -1,0 +1,1 @@
+ generate a detailed financial analysis for the provided data. Please structure your response in a clear and organized manner

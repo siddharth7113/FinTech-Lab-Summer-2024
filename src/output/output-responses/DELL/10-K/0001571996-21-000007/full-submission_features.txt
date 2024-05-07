@@ -1,0 +1,37 @@
+ PDF
+
+1. What is the purpose of this document?
+The purpose of this document appears to be a financial statement for the period ended January 29, 2021, for Dell Technologies Corporation. It includes information on the company's financial performance, such as its revenues, costs, and profitability, as well as its liquidity and capital structure.
+2. What are the major sections of this document?
+The major sections of this document include:
+1. Letter to Shareholders
+2. Management Discussion and Analysis (MD&A)
+3. Financial Statements (Including the Income Statement, Balance Sheet, and Cash Flow Statement)
+4. Supplementary Information (Including reported segment information and describe the historical segment information)
+5. Report of Independent Registered Public Accountants
+6. Note 1 (Worldwide Operations)
+7. Note 4 (Business Combinations)
+8. Note 6 (Commitments and Contingencies)
+9. Note 7 (Financial Services Measurements and Investments)
+10. Note 9 (Derivative Instruments and Hedging Derivative Instruments and Hedging Activities)
+11. Note 10 (Pensions, Other Post-Retirement Benefits, and Retirement Plan Benefits)
+12. Note 12 (Goodwill, Other Intangible Assets, Amortization of Intangible Assets, and Depreciation of Long-Lived Assets)
+13. Note 14 (Deferred and Warrant warrant Revenue and Unfulfilled Obligations)
+14. Note 15 (Deferred Revenue)
+15. Note 16 (Costs)
+16. Note 17 (Operating Expenses)
+17. Note 18 (Comprehensive Income, Net)
+18. Note 19 (Retained Earnings)
+19. Note 21 (Long-Lived Assets)
+20. Note 22 (Financial Instruments)
+21. Note 24 (Debt and Equity Securities Defaultsin terms of financial reporting and reporting during the fiscal year ended January 31, 2020 , January 31 , 2020 , certainty, resort to irreversible action, and other factors that may affect future operations, including those outside the Company’s report no impact
+22. Note 25 (Accounts Receivable)
+23. Note 26 (Cost of Sales)
+24. Note 29 (Pension and Other Post-Retirement Benefits)
+25. Note 30 (Seller’s Property Transactions with Affiliates)
+26. Note 31 (Note 21.23)
+27. Note 36 (Minority Interest)
+28. Note 37 (Securities)
+29. Note 40 (Investment in Affiliates)
+30. Note 41 (Tax Result of Operations)
+31. Note 42 (Investment in Venezuela

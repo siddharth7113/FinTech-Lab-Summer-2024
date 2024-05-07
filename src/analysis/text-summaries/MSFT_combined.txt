@@ -1,0 +1,78 @@
+ Year-wise Breakdown of Critical Financial Events and their Impacts on Microsoft's Performance: 
+
+2000:
+
+* Microsoft reported highest revenue $20 billion in its history.
+* The company made a strong entry into the online retail market through the acquisition of Brief Items, helping to revenue expand in the e-commerce market.
+
+2001:
+
+* Microsoft launched Windows XP, one of its most successful operating systems, which helped boost revenue.
+* The company's net profit per share reached a record high of $0.58.
+
+2002:
+
+* Microsoft faced intense antitrust scrutiny due to the anticompetitive practices related to Microsoft bundling Internet Explorer with Windows.
+
+2003:
+
+* Microsoft continued to face antitrust challenges in Europe, ultimately agreeing to a settlement in 2004.
+* The company's revenue growth slowed down slightly, as the market for Windows XP began to saturate.
+
+2004:
+
+* A project to create new operating system "Vista" was announced, and Microsoft also launched server products such as Windows Server 2008 R2, which helped boost revenue.
+
+2005:
+
+* The release of Vista, while not as successful as XP, helped expand the company's product line beyond operating systems.
+* Microsoft also launched its first foray into video game console with Xbox 360.
+
+2006:
+
+* Windows Vista faced significant challenges, leading to lower-than-expected sales.
+* However, the release of Office 2007 helped boost revenue and expand the company's offerings beyond software products to include services such as SharePoint.
+
+2007:
+
+* Apple launched the iPhone in June, which posed a significant threat to Microsoft's Windows Mobile business.
+* Microsoft also announced the release of Windows 7, which proved to be highly successful.
+
+2008:
+
+* The launch of Windows 7 helped Microsoft recover from the backlash against Vista.
+* The company also launched Azure, its cloud computing platform.
+
+2009:
+
+* Microsoft launched Windows Phone 7, which failed to gain traction in the market.
+* The release of Office 2010, the biggest update to the Office product line in a decade, also helped boost revenue.
+
+2010:
+
+* The launch of iPad in April posed another significant threat to Microsoft's Windows Mobile business.
+* However, the company continued to focus on expanding its cloud and enterprise software offerings, particularly in healthcare.
+
+2011:
+
+* The launch of Windows 8, which incorporated touch screen capabilities, helped expand the company's product line beyond PCs.
+* However, the release of Windows Phone 8 failed to gain traction in the market.
+
+2012:
+
+* Microsoft's CEO Steve Ballmer announced his retirement, which led to a period of transition for the company.
+* The company also faced new antitrust challenges related to its browser market dominance, ultimately releasing a new iteration of Internet Explorer named "Internet Explorer Explorer."
+
+2013:
+
+* The launch of Windows 8.1 helped Microsoft to recover from the difficulties faced by Windows 8.
+* The company also launched a major overhaul of its email service, Microsoft Exchange 2013.
+
+2014:
+
+* Microsoft announced the acquisition of Nokia, aiming to improve its mobile device market presence.
+* Meanwhile, the company continued to focus on its cloud and enterprise software offerings, particularly in finance.
+
+2015:
+
+* Microsoft completed

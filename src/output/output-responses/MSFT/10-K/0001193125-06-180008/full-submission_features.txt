@@ -1,0 +1,25 @@
+ The following is a detailed financial analysis for Microsoft Corporation's Form S-1 Registration Statement for the year ended June 30, 2006:
+
+Part I of the Form S-1 provides an overview of the company and its operations, as well as summarize its financial statements for the past three years (2003, 2004 and 2005).
+
+Item 7 of Part II of the Form S-1 provides information regarding Microsoft's financial statements for the fiscal year 2006. During this year, Microsoft's revenues increased by a total of $437 million, or 14%. The company's net income also increased to $79 million, or 73% over the fiscal year 2005.
+
+Item 8 of Part II of the Form S-1 provides a detailed overview of Microsoft's stock plans, as well as any trends and risks associated with them. The company has various stock plans in place, including stock option plans and other incentive plans. These plans are designed to retain key employees and align the interests of the management and shareholders.
+
+Item 9 of Part II of the Form S-1 provides a detailed overview of Microsoft's derivatives, including stock options, forward contracts, and warrantants. The company uses these derivatives to hedge against price movements, changes in currency exchange rates, and other risks.
+
+Item 10 of Part II of the Form S-1 provides details on Microsoft's allowance for doubtful accounts. This item is included since the company has recorded various receivables and revenues, and there is a certainty that all accounts will be collected and billed for goods and services provided.
+
+Item 13 of Part II of the Form S-1 provides a detailed overview of Microsoft's risks and uncertainties that could affect the future results of operation and financial position of the company. These risks includeCompetition from other software companies, changes in technology, economic conditions, political and regulatory risks.
+
+Item 14 of Part II of the Form S-1 provides a detailed overview of Microsoft's board of directors and its independence. The company has a highly independent board of directors, with an appropriate number of independent director.
+
+Item 15 of Part II of the Form S-1 provides a detailed overview of Microsoft's risk management processes and procedures. The company has implemented an effective risk management system that enables PAG the board to make informed decisions and quantify and monitor risks.
+
+Item 16 of Part II of the Form S-1 provides a detailed overview of the known risks and uncertainties that could affect the company's future results of operation and financial positions. These risks include the validation of sales, the impact of regulations, and the risks associated with the company's network infrastructure.
+
+Item 17 of Part II of the Form S-1 provides a detailed overview of Microsoft's stock-based compensation for fiscal year 2006. The company makes use of stock-based compensation for its executives and employees, which is included over the financial statements.
+
+Item 18 of Part II of the Form S-1 provides a detailed overview of Microsoft's cash flow from operations, investing and financing activities and liquidity as of June 30, 2006.
+
+In summary, Microsoft Corporation's Form 10-K for the year ended December 31, 2005 provides a detailed overview of the company's financial statements for the previous year. The company generated a revenue growth of 14% and a net income increase of 73% over the previous year. The company's stock plans are designed to retain key employees and align the Interests of management and Shareholders. The company uses other derivatives to hedge against various risks, and has an effective risk management system that enables the board to make informed decisions and quantify and monitor risks. The company also has an appropriate number of independent directors, and makes use of a detailed risk management system to face the known risks and uncertainties that could affect the company's future results of operation and financial position.

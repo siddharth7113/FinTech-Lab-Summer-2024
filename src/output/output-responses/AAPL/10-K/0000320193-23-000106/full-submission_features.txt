@@ -1,0 +1,28 @@
+ Apple Inc. is a multinational technology company that designs, manufactures, sells, and leases innovative consumer electronics and computer software. It is incorporated in California, and its stock trades on the Nasdaq Global Select Market under the symbol AAPL.
+
+Apple Inc.'s financial statement for the fiscal year ended September 30, 2023, includes some tables and notes. The tables are as follows:
+
+* Income Statement: This table shows Apple Inc.'s revenue, gross profit, operating expenses, net income, and other income (expense), net for the fiscal year ended September 30, 2023.
+* Balance Sheet: This table shows Apple Inc.'s assets, liabilities, and equity at September 30, 2023.
+* Statement of Cash Flows: This table shows the sources and uses of cash for the fiscal year ended September 30, 2023.
+
+The notes accompanying the financial statements provide additional information about Apple Inc.'s financial statements, including the following:
+
+* Note 11 provides information about Apple Inc.'s outstanding common stock and additional paid-in capital, as well as the amount and timing of its stock repurchases.
+* Note 13 provides information about Apple Inc.'s common stock divided by share and the amount of dividends paid to common stockholders.
+* Note 14 provides information about Apple Inc.'s other financial instruments, including the nature of the instruments and their fair value at September 30, 2023.
+* Note 15 provides information about Apple Inc.'s long-term debt, including the amount, maturity dates, and interest rates.
+* Note 16 provides information about Apple Inc.'s long-term equity, including the amount and allocation of stock purchase price.
+* Note 17 provides information about Apple Inc.'s read-only long-term revaluation reserve and other intangible assets.
+* Note 18 provides information about Apple Inc.'s restrictions and commitments related to its securities.
+And here are some relevant points of financial data:
+
+* For the fiscal year ended September 30, 2023, Apple Inc.'s revenue was 214.2 billion dollars, compared to 208.5 billion dollars in the previous fiscal year. This represents a decrease of 4.3%.
+* For the fiscal year ended September 30, 2023, Apple Inc.'s gross profit was 113.2 billion dollars, compared to 117.7 billion dollars in the previous fiscal year. This represents a decrease of 4.1%.
+* For the fiscal year ended September 30, 2023, Apple Inc.'s operating expenses were 53.5 billion dollars, compared to 54.1 billion dollars in the previous fiscal year. This represents a decrease of 0.6%.
+* For the fiscal year ended September 30, 2023, Apple Inc.'s net income was 59.4 billion dollars, compared to 56.0 billion dollars in the previous fiscal year. This represents an increase of 5.2%.
+* For the fiscal year ended September 30, 2023, Apple Inc.'s other income (expense), net was -25.4 million dollars, compared to -22.1 million dollars in the previous fiscal year. This represents an decrease of 11.3%.
+* At September 30, 2023, Apple Inc.'s total assets were 204.7 billion dollars, compared to 200.8 billion dollars in the previous fiscal year. This represents an increase of 6.1%.
+* At September 30, 2023, Apple Inc.'s long-term debt was 50.8 billion dollars, compared to 50.8 billion dollars in the previous fiscal year. This represents no change.
+* At September 30, 2023, Apple Inc.'s long-term equity was 6.6 billion dollars, compared to 6.6 billion dollars in the previous fiscal year. This represents no change.
+* At September 30, 2023, Apple Inc.'s cash and cash equivalents was 16.6 billion dollars, compared to 14.4 billion dollars in the previous fiscal year. This represents an increase of 12.1%.

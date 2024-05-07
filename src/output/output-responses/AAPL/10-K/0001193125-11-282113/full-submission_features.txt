@@ -1,0 +1,9 @@
+ This proposal is introducing a new rule that requires corporations to provide entities with a unique identifier. This unique identifier would be used in financial reporting and for regulatory purposes. Currently, companies do not have a way to consistently identify individual entities.
+
+The objective of this rule is to improve the accuracy and transparency of financial reporting by ensuring that entities are correctly identified. This would help regulatory agencies and investors to quickly and easily find the information they need.
+
+The rule would apply to all public companies listed on a stock exchange, as well as certain private companies that meet certain criteria. Exemptions would be provided for entities that are already unique and have a system in place to track and identify their transactions.
+
+The cost of implementing this rule would fall to the companies that are impacted, as they would need to purchase new software or systems to generate and track the new unique identifier. This could add to the cost of compliance for already struggling companies.
+
+The votation on this proposed rule is open to those who are concerned with the accuracy and transparency of financial reporting. If the majority of the votes support the rule, it would be implemented and become mandatory for all affected companies. Otherwise, it would be rejected and no action would be taken.

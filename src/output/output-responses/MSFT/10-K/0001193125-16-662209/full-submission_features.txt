@@ -1,0 +1,31 @@
+ 1. Financial Statements:
+1.1 Revenue: $16.798 billion
+1.2 Gross Profit: $8.755 billion
+1.3 Operating Expenses: $5.591 billion
+1.4 Net Income: $1,147 million
+2. Segment Information:
+2.1 Computing Services: $7.859 billion
+2.2 Cloud and Enterprise Services: $1.325 billion
+2.3 Services for Architecture, Engineering, Construction, and Real Estate Services: $1.257 billion
+3. Capital Structure and Stockheads:
+3.1 Total Assets: $23.725 billion
+3.2 Total Liabilities and Equity: $16.752 billion
+3.3 Common Stock, $0.00000625 par value per share, NASDAQ registered securities file report pursuant to Section 13 or Section 15 ( d
+4. Cash Flow:
+4.1 Cash from Operations: $3.824 billion
+4.2 Cash from Investments, Offerings of Securities, and Other Financial Activities: $4.043 billion
+4.3 Cash used from Financing Activities: $0.471 billion
+5. Current Ratio: 1.60 ( Cash and Relative and Collateral Common Stock / Current Liabilities )
+6. Time-Based Financial Management:
+6.1 Accounts Receivable: $1.131 billion
+6.2 Inventory: $2.127 billion
+6.3 Accounts Payable: $1.930 billion
+7. Liquidity:
+7.1 Quick Ratio: $0.76 ( Office Cash Ratio / Current Liabilities )
+7.2 Current Ratio: $1.437 ( Accounts Receivable / Accounts Payable )
+8. Capital Structure:
+8.1 Debt-to-Debt Ratio: $6.011:$1.944
+8.2 Equity-to-Debt Ratio: $9.677:$6.011
+8.3 Dividend Yield: $1.85% ($4.6 billion / ($23.725 billion + $5.044 billion ))
+9. Accounts Payable Aging:
+9.1 Current Bit an...

@@ -1,0 +1,18 @@
+import requests
+import json
+
+OPENROUTER_API_KEY = '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'  # API-KEY-HERE
+
+response = requests.post(
+  url="https://openrouter.ai/api/v1/chat/completions",
+  headers={
+    "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+
+  },
+  data=json.dumps({
+    "model": "mistralai/mistral-7b-instruct:free",
+    "messages": [
+      { "role": "user", "content": "What is the meaning of life?" }
+    ]
+  })
+)

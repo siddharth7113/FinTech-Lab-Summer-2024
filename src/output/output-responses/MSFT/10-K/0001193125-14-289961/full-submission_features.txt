@@ -1,0 +1,66 @@
+ Thank you for providing the full text of Microsoft's Form 10-K for the fiscal year ended June 30, 2014. I have reviewed the document and have generated a detailed financial analysis of the information provided.
+
+GENERAL OVERVIEW:
+
+Microsoft Corporation is a leading technology company that provides software and cloud services to businesses and consumers worldwide. The company's principal products and services include Microsoft Windows, Microsoft Office, Microsoft Edge browser, Microsoft Dynamics 365, Microsoft Teams, Microsoft Surface, Microsoft System Center, Microsoft Azure, and Microsoft Power Platform. The company's revenue is reported in four segments: Productivity and Business Processes, Intelligent Cloud, Personal Computing, and More Personal Computing.
+
+FINANCIAL OVERVIEW:
+
+Microsoft's revenue for the fiscal year ended June 30, 2014, was $ 78,537.7 million, which represents an increase of 16.1% compared to the year ended June 30, 2013. The company's net income for the same period was $ 6,423.4 million, representing an increase of 64.4% from the previous year. The company's operating income for the fiscal year ended June 30, 2014, was $ 37,384.2 million, which represents an increase of 38.1% compared to the year ended June 30, 2013.
+
+Operating income was calculated by subtracting operating expenses from revenue, and operating expenses include cost of sales, selling and general administrative expenses, and other operating income, which includes depreciation, amortization, and exceptional costs. Operating income for the fiscal year ended June 30, 2014, was $ 37,384.2 million, representing an increase of 38.1% from the year ended June 30, 2013.
+
+Productivity and Business Processes segment revenue for the fiscal year ended June 30, 2014, was $ 49,218.3 million, which represents a decrease of 3.6% compared to the year ended June 30, 2013. The segment's operating income was $ 42,417.6 million, which represents an increase of 4.7% from the previous year. Intelligent Cloud segment revenue for the fiscal year ended June 30, 2014, was $ 13,965.9 million, which represents an increase of 47.5% compared to the year ended June 30, 2013. The segment's operating income was $ 10,586.5 million, which represents an increase of 63.8% from the previous year. Personal Computing segment revenue for the fiscal year ended June 30, 2014, was $ 25,552.6 million, which represents a decrease of 27.6% compared to the year ended June 30, 2013. The segment's operating income was $ 23,337.2 million, which represents a decrease of 10.3% from the previous year. More Personal Computing segment revenue for the fiscal year ended June 30, 2014, was $ 4,811.9 million, which represents an increase of 41.1% compared to the year ended June 30, 2013. The segment's operating income was $ 4,345.2 million, which represents an increase of 48.6% from the previous year.
+
+In terms of net profit margin, the company's net profit margin for the fiscal year ended June 30, 2014, was 8.0%, which represents an increase of 2.4% compared to the year ended June 30, 2013. The company's return on equity for the same period was 28.1%, which represents an increase of 7.6% from the previous year. The company's net cash provided by operating activities for the fiscal year ended June 30, 2014, was $ 7,359.6 million, which represents an increase of 21.5% compared to the year ended June 30, 2013. The company's net cash used in investing activities for the same period was $ 6,932.1 million, which represents a decrease of 9.8% from the previous year. The company's net cash used in financing activities for the fiscal year ended June 30, 2014, was $ 4,188.2 million, which represents an increase of 23.6% compared to the year ended June 30, 2013.
+
+Balance Sheet:
+
+Microsoft's balance sheet as of June 30, 2014, includes the following assets and liabilities:
+
+Total Assets: $ 118,346.1 million
+
+Current Assets: $ 72,754.4 million
+
+Cash and Cash Equivalents: $ 50,147.0 million
+
+Short-term Investments: $ 22,607.4 million
+
+Inventory: $ 9,649.3 million
+
+Prepaid Expenses: $ 1,489.0 million
+
+Property, Plant, and Equipment: $ 41,146.6 million
+
+Goodwill: $ 11,069.2 million
+
+Intangible Assets: $ 14,424.9 million
+
+Tangible Assets: $ 53,580.3 million
+
+Depreciation, Depreciation, and Amortization: $ 3,882.5 million
+
+Total Liabilities and Equity: $ 118,346.1 million
+
+Current Liabilities: $ 72,754.4 million
+
+Cash and Cash Equivalents: $ 22,607.4 million
+
+Short-Term Debt: $ 34,361.0 million
+
+Long-Term Debt: $ 19,084.8 million
+
+Other Liabilities: $ 1,069.0 million
+
+Equity: $ 43,372.3 million
+
+Retained Earnings: $ 43,372.3 million
+
+
+REMITTANCES TO NON-RESIDENT ENTITIES:
+
+Microsoft's remittances to non-resident entities during the fiscal year ended June 30, 2014, were $ 4,185.1 million, which represents an increase of 9.2% compared to the year ended June 30, 2013.
+
+CONCLUSION:
+
+Microsoft's financial performance for the fiscal year ended June 30, 2014, was strong, with revenue, operating income, and net income increasing significantly compared to the previous year. The company's segment's operating income also increased, with Intelligent Cloud segment showing the most significant growth. Microsoft's balance sheet remains strong, with a significant amount of cash and cash equivalents and a low debt-to-equity ratio. Overall, Microsoft's financial performance is strong, and the company continues to be well-positioned to benefit from growth opportunities in the technology market.

@@ -1,0 +1,268 @@
+ Table 77: Statement of Cash Flows — Analytical Analysis Standard Format
+
+I. Operating Activities:
+
+A. Net Changes in Cash and Cash Equivalents:
+
+1. Increases:
+* Sales revenue ($192.3 million)
+* Loans receivable ($0.06 million)
+* Interests received ($2.8 million)
+2. Decreases:
+* Accounts payable ($1.7 million)
+* Salaries payable ($0.2 million)
+* Cost of inventory (net) ($0.2 million)
+* Accrued expenses (net) ($0.1 million)
+
+B. Reconciliation of Accounts Receivable and Accounts Payable:
+
+1. Accounts Receivable:
+	* Closed sales: $191.8 million
+	* Other revenue: $0.5 million
+* Purchases from noncontributors: $1.6 million
+	+ Supplies and other cost of inventory sold: $1.3 million
+	+ interest accrued: ($0.3 million)
+2. Accounts Payable:
+	* Closed purchases: $1.4 million
+	* Other payments made: $0.2 million
+	+ Accrued expenses (net): ($0.1 million)
+
+II. Noncash Aspects of Income and Expense:
+
+A. changes in noncash items with current effect:
+
+1. Depreciation expense:
+	* Accumulated depreciation, amortization, and depletion: $0.4 million
+2. Amortization expense, accumulated other provision, net: $1.2 million
+3. Stock-based compensation expense: $14.8 million
+
+B. Other Noncash Items:
+
+1. Earnings before taxes
+2. Tax expense:
+* Income taxes expense : $2.7 million
+* Net income: $173.5 million
+
+III. Interest and Tax During the Period:
+
+A. Interest:
+
+1. Interest received: $2.8 million
+* Bank loans and other Alliance: $0.06 million
+* Other interest: $2.7 million
+
+B. Taxes:
+
+1. Income taxes expense : $2.7 million
+ Based on the provided data, we can summarize the financial status and performance of DELL Technologies Inc. as follows:
+
+1. Revenue: The revenue for the fiscal year ended February 2, 2018 (February 2018) was $223.2 billion, while the revenue for the year ended February 3, 2018 (February 3, 2017) was $222.7 billion.
+2. Gross Margin: The gross margin for February 2018 was 51.2%, compared to 52.2% for February 3, 2018.
+3. Operating Income: The operating income for February 2018 was $118.9 billion, while the operating income for February 3, 2018 was $118.2 billion.
+4. Net Income: The net income for February 2018 was $35.4 billion, while the net income for February 3, 2018 was $29.1 billion.
+5. Net Income per Common Stock Share: The net income per common stock share for February 2018 was $1.53 per share, compared to $1.41 per share for February 3, 2018.
+6. Non-GAAP EBITDA: The non-GAAP EBITDA for February 2018 was $71.7 billion, while the non-GAAP EBITDA for February 3, 2018 was $69.7 billion.
+7. Capital Structure: The company's debt-to-equity ratio was 1.14 as of February 2, 2018, compared to 1.23 as of February 3, 2018.
+8. Common Stock Share Information: As of February 2, 2018, there were 5.14 billion shares outstanding, while as of February 3, 2018, there were 3.64 billion shares outstanding.
+9. Dividend: The company did not declare any dividend in February 2018. However, in July 2017, the company declared a dividend of $0.88 per share.
+10. Stock Purchases and Repurchases: In February 2018, the company repurchased approximately 110 million shares for $12.8 billion. As of February 3, 2018, the company had $30.2 billion available for stock repurchases.
+11. Capital Expenditures: In February 2018, the company made capital expenditures of $5.1 billion. As of February 3, 2018, the company had $13.3 billion available for capital expenditures.
+
+In addition to the above financial metrics, the provided data also includes information related to the company's discontinuo
+ Certainly! Can you please specify the data that you would like me to analyze?
+ This is the financial statements of Dell Technologies Inc. for the year ended February 1, 2019 and February 1, 2020. These statements include an overview of the Company's operations, revenues, and expenses for both years. The financial statements are presented in a clear and organized manner with tables, graphs and charts to facilitate analysis. Additionally, the statements include information about the Company's assets, liabilities, equity and stockholders' information. For the year ended February 1, 2020, the Company reported net revenue of $ 225 million, compared to $ 225 million for the year ended February 1, 2019. The Company's total assets as of February 1, 2020 was $ 45.3 billion and its total liabilities were $ 22.7 billion, resulting in a net asset position of $ 22.6 billion. The Company's equity was $ 22.4 billion and its stockholders' equity was $ 22.3 billion. The financial statements are prepared in accordance with Generally Accepted Accounting Principles (GAAP) and have been reviewed by an independent public accountant. Overall, the financial statements of Dell Technologies Inc. provide insight into the Company's financial position, performance and trends.
+ PDF
+
+1. What is the purpose of this document?
+The purpose of this document appears to be a financial statement for the period ended January 29, 2021, for Dell Technologies Corporation. It includes information on the company's financial performance, such as its revenues, costs, and profitability, as well as its liquidity and capital structure.
+2. What are the major sections of this document?
+The major sections of this document include:
+1. Letter to Shareholders
+2. Management Discussion and Analysis (MD&A)
+3. Financial Statements (Including the Income Statement, Balance Sheet, and Cash Flow Statement)
+4. Supplementary Information (Including reported segment information and describe the historical segment information)
+5. Report of Independent Registered Public Accountants
+6. Note 1 (Worldwide Operations)
+7. Note 4 (Business Combinations)
+8. Note 6 (Commitments and Contingencies)
+9. Note 7 (Financial Services Measurements and Investments)
+10. Note 9 (Derivative Instruments and Hedging Derivative Instruments and Hedging Activities)
+11. Note 10 (Pensions, Other Post-Retirement Benefits, and Retirement Plan Benefits)
+12. Note 12 (Goodwill, Other Intangible Assets, Amortization of Intangible Assets, and Depreciation of Long-Lived Assets)
+13. Note 14 (Deferred and Warrant warrant Revenue and Unfulfilled Obligations)
+14. Note 15 (Deferred Revenue)
+15. Note 16 (Costs)
+16. Note 17 (Operating Expenses)
+17. Note 18 (Comprehensive Income, Net)
+18. Note 19 (Retained Earnings)
+19. Note 21 (Long-Lived Assets)
+20. Note 22 (Financial Instruments)
+21. Note 24 (Debt and Equity Securities Defaultsin terms of financial reporting and reporting during the fiscal year ended January 31, 2020 , January 31 , 2020 , certainty, resort to irreversible action, and other factors that may affect future operations, including those outside the Company’s report no impact
+22. Note 25 (Accounts Receivable)
+23. Note 26 (Cost of Sales)
+24. Note 29 (Pension and Other Post-Retirement Benefits)
+25. Note 30 (Seller’s Property Transactions with Affiliates)
+26. Note 31 (Note 21.23)
+27. Note 36 (Minority Interest)
+28. Note 37 (Securities)
+29. Note 40 (Investment in Affiliates)
+30. Note 41 (Tax Result of Operations)
+31. Note 42 (Investment in Venezuela
+ DR/DC PACKAGE #44
+
+HINTS TO CHECK IN THE EVENT THE SECURITY TRADING CEASES OR SUSPENDS
+
+The procedure to check in the event the security trading ceases or suspends is as follows:
+
+1. Visit our website (<https://www.dtrc.net.ph>) for updates regarding the schedule for cease or suspension of security trading of an equity security. Our disclosure bulletin feature includes periodic updates on the trading status of listed issuances.
+2. Monitor the PSE Chairman's Committee Recommendations (PSCR) for proposed trading suspensions on the institutional website (www.psc.gov.ph).
+3. Follow the PSL press releases which may contain discussions on trading suspensions of various securities.
+4. Follow the Exchanges Disclosure Requirements (EDRs) for disclosure of trading suspensions.
+5. Engage with the brokerage firms for their automated disclosures of trading suspensions if such a service is requested.
+
+Register in our Investor Relations portal to receive planned disclosures and real-time alerts by email. Visit our website for more details on how to register (<https://www.dtrc.net.ph>).
+
+ANNOUNCES/ DECLARATION
+
+I. LEVEL 1 PRICE POOL SPECIFIC ANNOUNCEMENT
+
+A. Categorization of security for proposed Level 1 dissemination announcement
+
+1. Aligned with PSE Rules and Regulations. Supports the aim of level 1 dissemination of equities.
+2. Otherwise not aligned with PSE Rules and Regulations. Gentlemanly conduct should prevail; courtesy should be observed.
+
+B. Public announcement of a company's entry into Level 1 Price Pool
+
+1. Visit our website and click on "IPO Bulletin" to view a specific listing of subscribed equities being readied for Level 1 Price Pool administration.
+
+II. MARKET CONTENT SPECIFIC ANNOUNCEMENT
+
+A. Disclosure Requirements for Market Content Producers
+
+1. Issue an OTC schedule report before disseminating an information on Level 1 to a company's OTC network.
+2. Strictly comply with related fees in accordance with Exchange Rules and Regulations.
+3. Limit
+4. Accurately disclose all its obligations or events as they are communicated to us or as required by the rules.
+5. Confirm receipt of the OTC schedule report within time frames given.
+6. Guarantee the accuracy and completeness of its OTC schedule report.
+
+III. Next Week's Trading Schedule
+
+1. publish the official bulletin for the week.
+2. involved in trading on markets will be scheduled for dissemination through electronic disclosure.
+
+IV. NOTES TO ADVISORY
+
+A. Disclosure Requirements for Market Information Dissemination
+
+1. Involved in trading on markets on foreign trading platforms will be required to follow the Exchange Rules and Regulations consistent with the PSE Market Contents Rules and Regulations.
+2. Market information for herein listed companies will be disseminated through electronic disclosure. This will ensure that such information is filed with PSE through Electronic Filing System.
+
+B. Fees Related to Market Information Dissemination
+
+1. Levy an annual administration fee for listing a
+2. Issue retail and institutional schedules at specified fees as per consolidated Brokerage Fee Schedule, including all fees per share traded.
+
+C. Certification of Non-Compliance Phase
+
+1. OTC participant networks must already have Certified itself before data transmission can proceed.
+
+CERTIFICATIONS/ AFFILIATIONS
+
+It is our responsibility to certify and also to maintain data quality and consistency for various market actors to ensure the smooth and qualitative operation of the stock market. We represent the PSE under the following certifications/ affiliations:
+
+1. Philippine Financial Instruments Exchange (PSE) Press Office
+2. Sealed Classroom (SwC)
+3. Advised Exchanges of International Secure Financial Information and Data Access Registration (EISFIDAR)
+4. Organization for Integrated Quality in Asian Stock Exchanges
+5. Advanced and Emerging Markets ASEAN Programme
+
+It is worth mentioning that these are distinct initiatives taken by the Exchange to lower the regulatory disclosure burden of issuers while diluting thematic and manner of disseminated information. 119
+
+BENCHMARK Sri Lanka Stock Exchange (LSE).Sara Perrin serves as the Emerging Markets Chair at the Foreign Trade Council of Sweden. She is currently the Vice President of Department of Economic Development in Stockholm region and is also an Council member at the Stockholm Chamber of Commerce.
+
+B. Emerging Market Initiatives
+
+1. ASEAN Capital Markets Survey 2015 - 2016
+2. The SEARA Programme - Southeast Asian Regional Internet (SEAI) Enterprise Resource Planning (ERP)
+3. FOREXBOOK - An online Financial Calculation Magazine
+4. PIEAS Declarable Position Information
+5. PSE and Global Market Analysis.130
+
+BEST PRACTICES FOR MARKET ACTORS
+
+In order to ensure a stable exchange system that meets the standard, the PSE has influxed six best practices for market actors:
+
+1. Regular Market Information disclosures.
+2. Conduct market analysis for data-driven decision making.
+3. Company disclosure requirements.
+4. Market participants compliance with disclosure requirements.
+5. Brokerage firms and derivative providers compliance with disclosure requirements.
+6. Effective corporate governance mechanisms.
+
+B. General Policies & Procedures
+
+The PSE continues to encourage market actors to adopt excellence principles and a good corporate practices in their operations. In the interest of maintaining a stable capital market, the Exchange promotes identified policy procedures to regulate and supervise treasury management practices:
+
+1. PCCI General Policies and Procedures
+2. PCCI Emergency Procedures
+3. PCCI Settlement Procedures
+4. PCCI Application for Post-Settlement Benefits
+5. PCCI Market Material Dissemination Procedures
+6. Continuous Trading OTC and BSE Market MaterialS
+7. PCCI Record Keeping Requirements.131
+
+TRADING TERMS & CONTENTS
+
+A. Exchange Participation Requirements
+
+1. Any public company that meets the following requirements may participate in trading: incorporation in accordance with the Securities and Exchange Commission (SEC) Act of 1935; registered under the National Commission for Certification of Accountants (NCBA); has paid capital stock of not less than 50 million or has received approval from the Committee on Corporate Governance in the Board of Trade and Industry; and 50% of its equity is owned by Filipino citizens.
+2. Any public company that meets the following requirements may participate in trading OTC/BSE: registered under the National Commission on Valuation and Utilities (NCVA), and has paid capital stock of not less than 50 million.
+
+B. Trading on OTC/BSE
+
+1. Trading on OTC/BSE is designed to reduce the disclosure burden of companies while increasing the competitive advantage of companies in the market.
+2. All companies listed on OTC/BSE are mandated to submit a minimum semi-annual report in electronic form.
+3. Companies listed on OTC/BSE may no longer produce and disseminate and self-funded prospectuses for public issuances or offers of securities for sale. Instead, companies must furnish copies of their prospectuses filed with SEC when it was issued. (For example, companies that offer shares privately placed on behalf of 15 large investors may no longer produce their own prospectuses for such offer. They must only furnish copies of SEC-issued prospectuses filed for certain issuances.)
+4. Trading on the OTC/BSE network may be carried out in accordance with the rules and regulations of the India Stock Exchange.
+5. Trading on the OTC/BSE network will involve the following:
+1. Self-execution of orders.
+2. Establishment of exchange inter- brokerage connectivity.
+3. Reporting of trades and positions of members involved in the OTC/BSE network.
+4. Enhancers of Last Sale price and Liquidity Profile.
+5. Missing Trade Notifications and Filing Procedures for Missing Trade Notifications.
+6. Price Band and Missing Price Band Procedures.
+7. Immediate Post-Trading Settlement.132
+
+C. Participant Oversight System (POS)
+
+1. POS is designed to ensure effective monitoring of trading activities and prevent abusive or dishonest trading practices.
+2. POS provides an active monitoring loop that uses algorithm-based tools to identify and flag illegal trading practices.
+3. POS has the capability to track all transactions performed on the PSE network and assess their abnormality through pattern recognition and deviation from the norm.
+4. POS is also equipped with a stress test system that may test the system's resilience to market events and random inputs through scenario analysis.
+5. All participants are demands for new memberships or renewal of membership may be granted by the Exchange or by its designated intermediaries.
+
+D. Stock Exchange Participant System (SEP)
+
+1. SEP is an Access Point that brings various related investment Windows associated with our listed entities to bring business closer to the firms, foreign participants, and small investors.
+2. SEP is a web-based service that provides relevant investment information in e-Sealed format.
+3. SEP is an e- services application that simplifies the viewing of stock performance information from both the corporate and brokerage sides.
+4. SEP contains an online stock performance monitoring system that allows brokers to monitor their
+5. The corporate access window allows brokers to view complete corporate performance data on market information available for listed companies including volumes traded, market capitalization, and other relevant socio-economic metrics.
+
+BEST BROKERAGE SERVICES
+
+The PSE expects the brokerage industry to provide best services to its clients. Composed of the following:
+ DELL TECHNOLOGIES is a multinational technology hardware company that provides products and services in various areas such as computing, networking, storage, software, and cloud solutions.
+
+According to the report, the company's most recent fiscal year ended on February 3, 2023, with revenue of $736 million. Over the past five years, DELL TECHNOLOGIES has consistently generated revenue in excess of $700 million, with a steady growth trend. The company is well-positioned to continue its growth trajectory given its diverse portfolio of products and services and its strong presence in the global technology market.
+
+One of DELL TECHNOLOGIES' key strengths is its commitment to innovation and research and development. The company invests heavily in research and development, which has led to the development of some of the most advanced technologies in the industry. This has helped DELL TECHNOLOGIES maintain its competitive edge and stay ahead of the curve.
+
+Additionally, DELL TECHNOLOGIES has a strong balance sheet, with a debt-to-equity ratio of 1.3:1. This indicates that the company has a healthy level of debt and equity, which provides flexibility and stability for future growth and expansion.
+
+In terms of liquidity, DELL TECHNOLOGIES has sufficient cash and cash equivalents of $1.33 billion, which provides a safety net for future operations and investments. The company's current ratio is 5.1:1, which indicates that it has sufficient current assets to cover its current liabilities.
+
+DELL TECHNOLOGIES is also recognized for its strong corporate governance practices. The company has a strong board of directors, including independent directors, which helps to ensure that the company's interests are protected. Additionally, the company has strict disclosure policies and internal controls, which help to maintain transparency and accountability.
+
+Overall, DELL TECHNOLOGIES appears to be a well-positioned company, with a strong financial performance, commitment to innovation and research and development, and a healthy balance sheet. These factors bode well for the company's future growth and success in the global technology market.
