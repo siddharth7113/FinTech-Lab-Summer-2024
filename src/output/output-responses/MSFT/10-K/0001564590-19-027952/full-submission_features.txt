@@ -1,1 +1,0 @@
- Thank you for your web scraping task. I believe our system is capable of processing this document. However, I have encountered an error while parsing the content of the page. Specifically, the system is unable to identify some of the text from the document. Could you provide a more specific error message or information about what is causing the issue?

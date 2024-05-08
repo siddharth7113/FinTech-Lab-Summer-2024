@@ -114,8 +114,9 @@ FinTech-Lab-Summer-2024/
 
 ## Tech-Stack
 
-Python has been used throughout the project.
-Streamlit has been used to host the project.
+-Python has been used throughout the project.
+-Streamlit has been used to host the project.
+-Requirements.txt  mentions the used libraries.
 
 ---
 

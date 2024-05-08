@@ -16,7 +16,7 @@ logging.getLogger('').addHandler(console)
 
 
 #Download directory for Data,Company Name and Email
-download_dir = 'src/data'
+download_dir = 'src/data/raw_data'
 company_name = "MyCompanyName"
 email_address = "my.email1@domain.com"
 
@@ -28,7 +28,7 @@ os.makedirs(download_dir, exist_ok=True)
 dl = Downloader(company_name, email_address, download_dir)
 
 # Company tickers
-companies = ['AAPL', 'MSFT', 'DELL',] 
+companies = ['AAPL', 'MSFT', 'DELL','GOOGL'] 
 start_year = 1995
 end_year = 2023
 

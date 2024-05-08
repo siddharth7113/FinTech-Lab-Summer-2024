@@ -6,7 +6,7 @@ import json
 
 # Constants
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "API_KEY_HERE"
 COMBINED_TEXT_DIR = 'src/output/pre-analysis_combined'
 OUTPUT_DIR = 'src/analysis/csv'
 REQUEST_INTERVAL = 10  # Interval in seconds between requests to manage API rate limit

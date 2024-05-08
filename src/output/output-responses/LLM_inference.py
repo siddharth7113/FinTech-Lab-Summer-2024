@@ -6,13 +6,13 @@ import json
 
 # Constants
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
-OPENROUTER_API_KEY = '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'
+OPENROUTER_API_KEY = 'API-KEY-HERE'
 CLEANED_TEXT_DIR = 'src/data/pre_processed_data/feature'
-OUTPUT_DIR = 'src/data/putput/output-responses'
+OUTPUT_DIR = 'src/output/output-responses'
 REQUEST_INTERVAL = 10  # seconds to wait between requests to manage API rate limit
 
 def make_request(text):
-    prompt = """Generate a detailed financial analysis for the provided data. Please structure your response in a clear and organized manner."""
+    prompt = """Generate a detailed financial analysis for the provided data. Please structure your response in a clear and organized manner..."""
     headers = {
         "Authorization": f"Bearer {OPENROUTER_API_KEY}",
         "Content-Type": "application/json"

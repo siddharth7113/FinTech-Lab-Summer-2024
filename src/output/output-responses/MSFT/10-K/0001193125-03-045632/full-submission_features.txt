@@ -1,7 +1,0 @@
- Item 8 of Form 10-K is a table that provides irreplaceable cost estimates for various activities conducted by the company during the fiscal year in question. This table is purposefully organized to provide a detailed breakdown of costs associated with the construction of all buildings in the company's facilities. It allows stakeholders to assess the likely costs of different projects and make informed decisions about the company's future operations.
-
-The table is divided into several sections, each representing a different type of building or structure. Within each section, there are multiple rows that provide specific information about the cost of each item. For example, the table includes columns for the name of the item, its unit cost, the number of units, and the total cost.
-
-In addition to the construction costs, the table also includes non-construction costs associated with each item, such as design fees, permits, and consulting fees. These costs can be an important consideration when planning a new project, as they can significantly impact the overall cost of the project.
-
-Overall, the table in Item 8 of Form 10-K is an essential tool for stakeholders looking to understand the financial implications of different construction projects. By providing a detailed breakdown of costs, the table enables stakeholders to make more informed decisions about the company's future operations.
